@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Hamburger" transform="translate(-620 -106)">
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="34" height="34" transform="translate(620 106)" fill="none"/>
+    <g id="SideMenu" transform="translate(-1248 86)">
+      <rect id="Rectangle" width="26" height="2" rx="1" transform="translate(1872 28)" fill="#fff"/>
+      <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="26" height="2" rx="1" transform="translate(1872 36)" fill="#fff"/>
+      <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="26" height="2" rx="1" transform="translate(1872 44)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
