@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import MyResponsiveGeoMap from "./map";
+import WorldMap from "./map";
+
+
 export default function MainComponent() {
   return (
     <Div>
@@ -15,7 +17,7 @@ export default function MainComponent() {
           <RightContainer>
             <Countries>Countries</Countries>
             <CountriesData>18</CountriesData>
-            <MyResponsiveGeoMap/>
+         <WorldMap/>
           </RightContainer>
         </SpaceBetween>
       </Block>
