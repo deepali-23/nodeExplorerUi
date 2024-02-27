@@ -6,6 +6,7 @@ import WorldMap from "./map";
 export default function MainComponent() {
   return (
     <Div>
+      <Flex>
       <Block>
         <Title>Security</Title>
         <SpaceBetween>
@@ -49,6 +50,7 @@ export default function MainComponent() {
           </RightContainer>
         </SpaceBetween>
       </Block>
+      </Flex>
     </Div>
   );
 }
@@ -94,5 +96,9 @@ const SpaceBetween = styled.div`
   background: #103aaa 0% 0% no-repeat padding-box;
   width: 100%;
   height: 230px;
-  
+  padding: 10px;
 `;
+const Flex=styled.div`
+width:100%;
+
+display:flex;`;
